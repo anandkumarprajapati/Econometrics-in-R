@@ -2,8 +2,8 @@
 
 Implementing different econometrics techniques in R
 
-Macroeconometrics:
+Macroeconometrics:<br>
 1.GVAR Model
 
-Microeconometrics:
+Microeconometrics:<br>
 1.Difference-in-Differences 
